@@ -2,7 +2,7 @@
 ### Description:
 It is a single-page web app, created with HTML & CSS, by using BEM methodology with classes naming and file structure you can find all CSS files at block folder arranged by [BEM file structure](https://en.bem.info/methodology/filestructure/#guidelines-for-the-file-structure-of-a-bem-project "BEM file structure")
 you can also check [BEM naming classes](https://en.bem.info/methodology/quick-start/ "have quick start")
-### project link (githup) :
+### project link (github) :
   [githup project link](https://github.com/MennaEsmail/web_project_3/ "check the project by click")
 #### My plans for this project:
 - make smooth scrolling 
