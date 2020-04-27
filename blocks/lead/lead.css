@@ -3,7 +3,7 @@
 @import url('./__image/lead__image.css');
 @import url('./__caption/lead__caption.css');
 .lead{
-    margin: 0 148px;
+    /* margin: 0 148px; */
 }
 @media screen and (max-width: 1024px){
     .lead{

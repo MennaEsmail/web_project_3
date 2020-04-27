@@ -1,5 +1,6 @@
 @import url('./__title/place__title.css');
 @import url('./__image/place__image.css');
+@import url('./__url/place__url.css');
 @import url('./__url-heading/place__url-heading.css');
 @import url('./__link/place__link.css');
 @import url('./__paragraph/place__paragraph.css');
@@ -25,7 +26,7 @@ column-gap: 40px;
         column-gap: 28px;
     }
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 414px){
     .place{
         display: block;
     }

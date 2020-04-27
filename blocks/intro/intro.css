@@ -3,8 +3,9 @@
 @import url('./__text/intro__text.css');
 @import url('./__list/intro__list.css');
 @import url('./__list-item//intro__list-item.css');
+@import url('./__list-item/_bold/intro__list-item_bold.css');
 .intro{
-    margin: 92px 148px ;
+    margin: 92px auto ;
 }
 @media screen and (max-width: 1024px){
     .intro{
@@ -16,7 +17,7 @@
         margin: 92px 24px;
     }
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 414px){
     .intro{
         margin: 64px 16px;
     }

@@ -3,9 +3,15 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: #FFFFFF;
-    margin-bottom: 48px;
+    transition: opacity 0.4s ease-out;
+
 }
-@media screen and (max-width: 320px){
+
+.place__link:hover{
+    opacity: 0.4;
+}
+
+@media screen and (max-width: 414px){
     .place__link{
         display: none;
     }

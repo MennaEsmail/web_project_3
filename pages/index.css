@@ -1,4 +1,6 @@
 @import url('../vendor/normalize.css');
+@import url('../blocks/section/section.css');
+@import url('../fonts/inter/inter.css');
 @import url('../blocks/root/root.css');
 @import url('../blocks/header/header.css');
 @import url('../blocks/logo/logo.css');
@@ -9,12 +11,3 @@
 @import url('../blocks/place/place.css');
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/footer/footer.css');
-
-@font-face {
-    font-family: Inter;
-    src: url(../fonts/inter/Inter-Regular.woff),
-         url(../fonts/inter/Inter-Regular.woff2),
-         url(../fonts/inter/Inter-Bold.woff),
-         url(../fonts/inter/Inter-Bold.woff2);
-  }
-  

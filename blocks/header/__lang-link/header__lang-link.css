@@ -6,12 +6,21 @@
     line-height: 28px;
     color: #FFFFFF;
     cursor: pointer;
+    transition: opacity 0.4s ease-out;
 }
 .header__lang-link:first-of-type{
     margin-right: 18px;
+    
+}
+
+.header__lang-link:hover{
+    opacity: 0.4;
+}
+
+.header__lang-link_active{
     text-decoration: underline;
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 414px){
     .header__lang-link{
         font-size: 18px;
         line-height: 24px;
