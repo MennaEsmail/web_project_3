@@ -3,14 +3,14 @@
 @import url('./__image/lead__image.css');
 @import url('./__caption/lead__caption.css');
 .lead{
-    /* margin: 0 148px; */
+    color: #ffffff;
 }
 @media screen and (max-width: 1024px){
     .lead{
         margin: 0 48px;
     }
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 800px){
     .lead{
         margin: 0 ;
     }
