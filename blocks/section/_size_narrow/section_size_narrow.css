@@ -2,3 +2,9 @@
     max-width: 984px;
     margin: auto;
 } 
+
+@media screen and (max-width: 1024px){
+    .section_size_narrow{
+        max-width: 1024px;
+    }
+}
